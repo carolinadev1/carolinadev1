@@ -2,7 +2,7 @@
 
 # 👩🏾‍💻 Carolina Andrade
 
-**`Software Developer | Desenvolvedora de Software`**
+**`Full Stack Developer | Desenvolvedora Full Stack`**
 
 Olá, tudo bem? Me chamo Carolina, mas me chame de Carol. Nasci em 2004, moro no Rio Grande do Sul e comecei a minha jornada na tecnologia no Colégio Estadual Monteiro Lobato (Cimol) em Taquara-RS. Melhoro meus conhecimentos em códigos colocando aqui no Github e também expondo no Linkedin, onde tenho visibilidade para expor um lado mais profissional. Aqui é onde mantenho o que eu gosto de chamar de "bem vindo em casa, vamos codar". Expondo o meu lado criativo e curioso.
 
